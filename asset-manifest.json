@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hayk/static/css/main.f51ba721.css",
-    "main.js": "/hayk/static/js/main.67866463.js",
+    "main.js": "/hayk/static/js/main.feca1f55.js",
     "index.html": "/hayk/index.html",
     "main.f51ba721.css.map": "/hayk/static/css/main.f51ba721.css.map",
-    "main.67866463.js.map": "/hayk/static/js/main.67866463.js.map"
+    "main.feca1f55.js.map": "/hayk/static/js/main.feca1f55.js.map"
   },
   "entrypoints": [
     "static/css/main.f51ba721.css",
-    "static/js/main.67866463.js"
+    "static/js/main.feca1f55.js"
   ]
 }
