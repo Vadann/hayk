@@ -5,6 +5,12 @@ import { FaGithub } from 'react-icons/fa';
 function Projects() {
   const projects = [
     {
+      title: "Waypoint",
+      tech: ["next.js", "react", "typescript", "tailwind css", "postgresql", "claude ai"],
+      description: "Never lose track of a job opportunity. Waypoint automatically tracks every job application from your Gmail with AI-powered categorization.",
+      link: "https://joinwaypoint.app"
+    },
+    {
       title: "InsightWrite",
       tech: ["python", "django", "railway"],
       description: "A journaling web application with integrated mood tracking, calendar, and motivational features.",
